@@ -1,0 +1,56 @@
+body{
+
+  background-color: lightgreen;
+  text-align: center;
+  margin: 0;
+}
+
+h1{
+
+  font-family: 'Pacifico', cursive;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h2{
+  font-family: 'Permanent Marker', cursive;
+}
+
+.top-container{
+
+  background-color: blue;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+
+  background-color: green;
+
+}
+
+.bottom-container{
+
+  background-color: green;
+
+}
+
+.prvi_oblak{
+
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.drugi_oblak{
+
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.img{
+
+  height: 200px;
+  width: 200px;
+}
